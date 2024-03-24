@@ -9,6 +9,7 @@ packages = [{include = "repl_nix_mohammed_al_otaibi_portfolio"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 flask = "^3.0.2"
+sqlalchemy = "^2.0.28"
 
 
 [build-system]
